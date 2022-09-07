@@ -1,0 +1,22 @@
+Name
+
+No number alphabet combination
+Maximum 30 characters
+No Blank Data
+
+Email
+
+See Email validation
+
+Password
+
+7 to 13 characters
+Upper & lower Case combination
+
+Mobile
+
+Bangladesh Mobile number
+ 
+Address 
+
+Bangladeshi address
